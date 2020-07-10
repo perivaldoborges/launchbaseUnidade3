@@ -1,6 +1,3 @@
-// O PROGRAMA POSSUI O VETOR TECNOLOGIA COM TRÊS LINHAS E DUAS COLUNAS
-// O CONSOLE RETORNA O QUE FOR PEDIDO DOS VETORES
-
 const programador = {
     nome : "Perivaldo",
     idade : 26,
